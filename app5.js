@@ -1,3 +1,9 @@
 $(function(){
-    $('.box1').hide();
+  $('.box1').slideDown();{
+  	$('.box1').css({
+  		'backgroundcolor':'#0000FF',
+  		'weight':'200px',
+  		'height':'100px'
+  	})slidUp()
+  }
 });
