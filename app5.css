@@ -1,7 +1,6 @@
 .box1 {
-    /*display: none;
-	上から下へでは使用するが、下から上へするときは表示されている状態でのスタートになるので不要*/
-    background-color: #FF0000;
+    display: none;
+	background-color: #FF0000;
     height: 200px;
     width: 200px;
 }
